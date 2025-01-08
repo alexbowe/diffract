@@ -15,6 +15,11 @@ classifiers = [
     "Topic :: Software Development",
 ]
 
+[tool.poetry.urls]
+Homepage = "https://github.com/alexbowe/diffract"
+Repository = "https://github.com/alexbowe/diffract"
+"Bug Tracker" = "https://github.com/alexbowe/diffract/issues"
+
 [tool.poetry.dependencies]
 python = "^3.10"
 rich = { version = "==13.9.4", optional = true }
