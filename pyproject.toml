@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "diffract"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI tool to diff Python objects by dotted path."
 readme = "README.md"
 license = "MIT"
